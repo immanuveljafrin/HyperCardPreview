@@ -1,4 +1,4 @@
-// !$*UTF8*$!
+// !$*UTF8*$!a
 {
 	archiveVersion = 1;
 	classes = {
